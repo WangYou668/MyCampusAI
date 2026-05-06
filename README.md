@@ -20,3 +20,7 @@
 
 ## 🚀 快速启动
 1. 安装依赖
+
+## 项目展示
+
+<img width="1892" height="931" alt="05787186-0bce-43c4-a2a2-5fb8e932c368" src="https://github.com/user-attachments/assets/9b5ca6b9-756a-4722-b882-3e41fb2d5efa" />
