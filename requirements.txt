@@ -1,9 +1,9 @@
 fastapi
-uvicorn
-langchain
-langchain-community
-langchain-zhipuai
+uvicorn[standard]
 chromadb
 pypdf
+pymupdf
 python-multipart
 python-dotenv
+requests
+sqlalchemy>=2.0.0
